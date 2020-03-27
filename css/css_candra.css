@@ -1,0 +1,21 @@
+.table-center {
+    margin: 0 auto;
+ }
+ 
+ .warna-mybio {
+    outline-style: dotted;
+    outline-color: deeppink;
+    font-family: cursive;
+    font-style: oblique;    
+    text-shadow: 3px 2px hotpink;
+}
+
+.margin {
+    margin-left: 100px;
+ }
+
+.avatar {
+    width: 400px;
+    border-radius: 500px;
+    margin-right: 50px;
+}
